@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 30px;
+
+}
+body{
+
+  background-image: url('http://download.bwgrt.com/beijing/images/1-160313143052.jpg');
+  background-size: 100%;
+}
+#eee{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 28px;
+background-color:#f5f5f5
+
+
+}
+#aa{
+  font-size:45px;
+  background-color: #8c8c8c;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif
+
+
+}
+#web{
+
+color:blue;
+
+
+}
